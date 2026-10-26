@@ -1,4 +1,4 @@
-# Web Research Agent
+# Email Assistant 
 
 A LangGraph agent that searches the web for any topic and synthesizes a structured research report.
 
